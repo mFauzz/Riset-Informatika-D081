@@ -1,2 +1,3 @@
 # Riset-Informatika-D081
-List tugas
+Nama : Muhamad Fauzi
+NPM  : 21081010233
